@@ -10,5 +10,7 @@ System.out.print("The maximum number is: " + Math.max(9,7));
 //see the changes
 //editing one more line
 //editing one more line1
+
+//local changes
 }  
 } 
